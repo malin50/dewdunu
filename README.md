@@ -3,10 +3,6 @@ Setup For Deployment 👇
 Scan QR Code For Session
 https://replit.com/@yureshkav/QUEEN-X-QR-CODE
 
-Qr 2
-https://replit.com/@yureshkav/QUEEN-X-QR-CODE
-අර Qr එකෙන් ස්කැන් කරන්න අමාරු අයට👆
-
 DEPLOY👇
 
 ![68747470733a2f2f74656c656772612e70682f66696c652f3934366438336234363134353761336331353938632e706e67](https://user-images.githubusercontent.com/115778204/218405003-ff4d498a-6dd2-465e-a82f-b2abed301baa.png)
