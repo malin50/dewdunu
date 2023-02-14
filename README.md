@@ -5,10 +5,10 @@ https://replit.com/@yureshkav/QUEEN-X-QR-CODE
 
 DEPLOY👇
 
-![68747470733a2f2f74656c656772612e70682f66696c652f3934366438336234363134353761336331353938632e706e67](https://user-images.githubusercontent.com/115778204/218405003-ff4d498a-6dd2-465e-a82f-b2abed301baa.png)
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
 
-![68747470733a2f2f7261696c7761792e6170702f627574746f6e2e737667](https://user-images.githubusercontent.com/115778204/218405073-8f67bc04-e7c7-4b46-8fd3-48067186fdb0.svg)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/dashboard)
 
-![68747470733a2f2f74656c656772612e70682f66696c652f3438323238626262383336343739663761323836332e706e67](https://user-images.githubusercontent.com/115778204/218405216-ddebfb03-1cee-4a08-8203-82c2cb567cbe.png)
+[![Deploy on Koyeb](https://telegra.ph/file/48228bbb836479f7a2863.png)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 
-![68747470733a2f2f74656c656772612e70682f66696c652f6534363465363039653433656233646664633134342e706e67](https://user-images.githubusercontent.com/115778204/218405262-ac41f3a3-4b8a-4023-a2fe-085bcd18e9bf.png)
+[![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
